@@ -1,0 +1,17 @@
+com\yuk2000\service\impl\CheckGroupServiceImpl.class
+com\yuk2000\dao\CheckItemDao.class
+com\yuk2000\dao\OrderDao.class
+com\yuk2000\service\impl\ReportServiceImpl.class
+com\yuk2000\service\impl\MemberServiceImpl.class
+com\yuk2000\dao\PermissionDao.class
+com\yuk2000\dao\RoleDao.class
+com\yuk2000\dao\UserDao.class
+com\yuk2000\service\impl\CheckItemServiceImpl.class
+com\yuk2000\service\impl\UserServiceImpl.class
+com\yuk2000\service\impl\OrderServiceImpl.class
+com\yuk2000\dao\OrderSettingDao.class
+com\yuk2000\service\impl\OrderSettingServiceImpl.class
+com\yuk2000\dao\MemberDao.class
+com\yuk2000\dao\SetmealDao.class
+com\yuk2000\service\impl\SetmealServiceImpl.class
+com\yuk2000\dao\CheckGroupDao.class

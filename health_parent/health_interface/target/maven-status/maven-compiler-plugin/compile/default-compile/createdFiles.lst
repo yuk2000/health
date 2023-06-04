@@ -1,0 +1,8 @@
+com\yuk2000\service\OrderService.class
+com\yuk2000\service\ReportService.class
+com\yuk2000\service\SetmealService.class
+com\yuk2000\service\CheckGroupService.class
+com\yuk2000\service\MemberService.class
+com\yuk2000\service\CheckItemService.class
+com\yuk2000\service\UserService.class
+com\yuk2000\service\OrderSettingService.class
